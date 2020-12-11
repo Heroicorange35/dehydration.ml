@@ -1,0 +1,20 @@
+body{
+	background-color:#A04000;
+	overflow:scroll;
+	padding:10px;
+	scroll-behavior:smooth;
+	color:white;
+}
+p,h1,h2,h3,h4,h5,h6,b,i,u{
+	color:white;
+}
+.video-categories{
+    float:right;
+    width:50%;
+    color:white;
+}
+.chronological-videos{
+	float:left;
+	width:50%;
+	color:white;
+}
